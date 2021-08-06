@@ -678,325 +678,312 @@ INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowca
 ('Mehdi', 'LERIS', 'SAMPDORIA', 5, 'M', 0, 0, 0, 0);
 INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
 ('Karol', 'LINETTY', 'TORINO', 11, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Stanislav', 'LOBOTKA', 'NAPOLI', 6, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Manuel', 'LOCATELLI', 'SASSUOLO', 18, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Maxime', 'LOPEZ', 'SASSUOLO', 13, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Sasa', 'LUKIC', 'TORINO', 12, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Zinedine', 'MACHACH', 'NAPOLI', 4, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Giulio', 'MAGGIORE', 'SPEZIA', 14, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Francesco', 'MAGNANELLI', 'SASSUOLO', 3, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Jean-Victor', 'MAKENGO', 'UDINESE', 4, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Youssef', 'MALEH', 'FIORENTINA', 8, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Rolando', 'MANDRAGORA', 'TORINO', 15, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Razvan', 'MARIN', 'CAGLIARI', 16, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Weston', 'MCKENNIE', 'JUVENTUS', 15, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Filippo', 'MELEGONI', 'GENOA', 4, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Sergej', 'MILINKOVIC', 'LAZIO', 30, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Nahitan', 'NANDEZ', 'CAGLIARI', 17, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Hans', 'NICOLUSSI CAVIGLIA', 'JUVENTUS', 1, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Pedro', 'OBIANG', 'SASSUOLO', 8, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Christian', 'OLIVA', 'CAGLIARI', 6, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Martin', 'PALUMBO', 'UDINESE', 1, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Mario', 'PASALIC', 'ATALANTA', 22, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Lorenzo', 'PELLEGRINI', 'ROMA', 25, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Dor', 'PERETZ', 'VENEZIA', 6, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Roberto', 'PEREYRA', 'UDINESE', 18, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Ivan', 'PERISIC', 'INTER', 16, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Marco', 'PINATO', 'SASSUOLO', 3, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Tommaso', 'POBEGA', 'MILAN', 8, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Manolo', 'PORTANOVA', 'GENOA', 3, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Erick', 'PULGAR', 'FIORENTINA', 12, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Adrien', 'RABIOT', 'JUVENTUS', 17, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Samuele', 'RICCI', 'EMPOLI', 8, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Tomas', 'RINCON', 'TORINO', 10, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Marko', 'ROG', 'CAGLIARI', 13, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Nicolo', 'ROVELLA', 'GENOA', 9, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Fabian', 'RUIZ', 'NAPOLI', 19, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Andrea', 'SCHIAVONE', 'SALERNITANA', 3, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Jerdy', 'SCHOUTEN', 'BOLOGNA', 10, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Jacopo', 'SEGRE', 'TORINO', 6, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Leo', 'SENA', 'SPEZIA', 6, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Stefano', 'SENSI', 'INTER', 12, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Adrien', 'SILVA', 'SAMPDORIA', 9, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Kevin', 'STROOTMAN', 'CAGLIARI', 14, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Leo', 'STULAC', 'EMPOLI', 10, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Stefano', 'STURARO', 'GENOA', 8, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Mattias', 'SVANBERG', 'BOLOGNA', 14, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Adrien', 'TAMEZE', 'VERONA', 10, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Anthony', 'TAUGOURDEAU', 'VENEZIA', 5, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Morten', 'THORSBY', 'SAMPDORIA', 15, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Sandro', 'TONALI', 'MILAN', 11, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Antonio', 'VACCA', 'VENEZIA', 3, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Matias', 'VECINO', 'INTER', 10, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Miguel', 'VELOSO', 'VERONA', 14, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Jordan', 'VERETOUT', 'ROMA', 27, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Arturo', 'VIDAL', 'INTER', 14, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Ronaldo', 'VIEIRA', 'SAMPDORIA', 5, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Gonzalo', 'VILLAR', 'ROMA', 11, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Gaetano', 'VITALE', 'SALERNITANA', 1, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('', 'WALACE', 'UDINESE', 6, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Piotr', 'ZIELINSKI', 'NAPOLI', 27, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Szymon', 'ZURKOWSKI', 'EMPOLI', 7, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Tanner', 'TESSMANN', 'VENEZIA', 4, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Valon', 'BEHRAMI', 'GENOA', 6, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Joel', 'OBI', 'SALERNITANA', 6, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('', 'HERNANI', 'GENOA', 14, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Jacopo', 'DA RIVA', 'ATALANTA', 2, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Kevin', 'AGUDELO', 'GENOA', 10, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Lauri', 'ALA-MYLLYMÄKI', 'VENEZIA', 2, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Mattia', 'ARAMU', 'VENEZIA', 11, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Nedim', 'BAJRAMI', 'EMPOLI', 13, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Federico', 'BERNARDESCHI', 'JUVENTUS', 13, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Daniel', 'BESSA', 'VERONA', 9, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Bjarki Steinn', 'BJARKASON', 'VENEZIA', 1, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Giacomo', 'BONAVENTURA', 'FIORENTINA', 15, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Hakan', 'CALHANOGLU', 'INTER', 24, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Jose Maria', 'CALLEJON', 'FIORENTINA', 13, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Giuseppe', 'CASO', 'GENOA', 2, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Samu', 'CASTILLEJO', 'MILAN', 11, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Federico', 'CHIESA', 'JUVENTUS', 31, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Mikkel', 'DAMSGAARD', 'SAMPDORIA', 14, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Filip', 'DJURICIC', 'SASSUOLO', 18, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Gianluca', 'GAETANO', 'NAPOLI', 4, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Lukas', 'HARASLIN', 'SASSUOLO', 7, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Jens Petter', 'HAUGE', 'MILAN', 9, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Daan', 'HEYMANS', 'VENEZIA', 7, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('', 'JONY', 'LAZIO', 6, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Dejan', 'KULUSEVSKI', 'JUVENTUS', 26, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Romero Alconchel', 'LUIS ALBERTO', 'LAZIO', 28, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Daniel', 'MALDINI', 'MILAN', 1, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Henrikh', 'MKHITARYAN', 'ROMA', 32, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Tòfol', 'MONTIEL', 'FIORENTINA', 1, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Radja', 'NAINGGOLAN', 'INTER', 15, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Carles', 'PEREZ', 'ROMA', 13, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Matteo', 'PESSINA', 'ATALANTA', 18, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Aaron', 'RAMSEY', 'JUVENTUS', 14, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Alexis', 'SAELEMAEKERS', 'MILAN', 15, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Riccardo', 'SAPONARA', 'FIORENTINA', 9, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Andreas', 'SKOV OLSEN', 'BOLOGNA', 13, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Roberto', 'SORIANO', 'BOLOGNA', 24, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Hamed Junior', 'TRAORE', 'SASSUOLO', 15, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Simone', 'VERDI', 'TORINO', 13, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Valerio', 'VERRE', 'SAMPDORIA', 13, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Emanuel', 'VIGNATO', 'BOLOGNA', 11, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Mattia', 'ZACCAGNI', 'VERONA', 17, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Nicola', 'ZALEWSKI', 'ROMA', 1, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Nicolò', 'ZANIOLO', 'ROMA', 22, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Rafik', 'ZEKHNINI', 'FIORENTINA', 4, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Felipe', 'ANDERSON', 'LAZIO', 17, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Brahim', 'DIAZ', 'MILAN', 16, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Arnor', 'SIGURDSSON', 'VENEZIA', 13, 'M', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Dennis', 'STOJKOVIC', 'TORINO', 1, 'M', 0, 0, 0, 0);
 
-LOBOTKA Stanislav NAPOLI C C 6
-LOCATELLI Manuel SASSUOLO C C 18
-LOPEZ Maxime SASSUOLO C C 13
-LUKIC Sasa TORINO C C 12
-MACHACH Zinedine NAPOLI C C 4
-MAGGIORE Giulio SPEZIA C C 14
-MAGNANELLI Francesco SASSUOLO C C 3
-MAKENGO Jean-Victor UDINESE C C 4
-MALEH Youssef FIORENTINA C C 8
-MANDRAGORA Rolando TORINO C C 15
-MARIN Razvan CAGLIARI C C 16
-MCKENNIE Weston JUVENTUS C C 15
-MELEGONI Filippo GENOA C C 4
-MILINKOVIC Sergej LAZIO C C 30
-NANDEZ Nahitan CAGLIARI C C 17
-NICOLUSSI CAVIGLIA Hans JUVENTUS C C 1
-OBIANG Pedro SASSUOLO C C 8
-OLIVA Christian CAGLIARI C C 6
-PALUMBO Martin UDINESE C C 1
-PASALIC Mario ATALANTA C C 22
-PELLEGRINI Lorenzo ROMA C C 25
-PERETZ Dor VENEZIA C C 6
-PEREYRA Roberto UDINESE C C 18
-PERISIC Ivan INTER C C 16
-PINATO Marco SASSUOLO C C 3
-POBEGA Tommaso MILAN C C 8
-PORTANOVA Manolo GENOA C C 3
-PULGAR Erick FIORENTINA C C 12
-RABIOT Adrien JUVENTUS C C 17
-RICCI Samuele EMPOLI C C 8
-RINCON Tomas TORINO C C 10
-ROG Marko CAGLIARI C C 13
-ROVELLA Nicolo GENOA C C 9
-RUIZ Fabian NAPOLI C C 19
-SCHIAVONE Andrea SALERNITANA C C 3
-SCHOUTEN Jerdy BOLOGNA
-C
-C 10
-SEGRE Jacopo TORINO
-C
-C
-6
-SENA Leo SPEZIA
-C
-C
-6
-SENSI Stefano INTER
-C
-C 12
-SILVA Adrien SAMPDORIA
-C
-C
-9
-STROOTMAN Kevin CAGLIARI
-C
-C 14
-STULAC Leo EMPOLI
-C
-C 10
-STURARO Stefano GENOA
-C
-C
-8
-SVANBERG Mattias BOLOGNA
-C
-C 14
-TAMEZE Adrien VERONA
-C
-C 10
-TAUGOURDEAU Anthony VENEZIA
-C
-C
-5
-THORSBY Morten SAMPDORIA
-C
-C 15
-TONALI Sandro MILAN
-C
-C 11
-VACCA Antonio VENEZIA
-C
-C
-3
-VECINO Matias INTER
-C
-C 10
-VELOSO Miguel VERONA
-C
-C 14
-VERETOUT Jordan ROMA
-C
-C 27
-VIDAL Arturo INTER
-C
-C 14
-VIEIRA Ronaldo SAMPDORIA
-C
-C
-5
-VILLAR Gonzalo ROMA
-C
-C 11
-VITALE Gaetano SALERNITANA
-C
-C
-1
-WALACE - UDINESE
-C
-C
-6
-ZIELINSKI Piotr NAPOLI
-C
-C 27
-ZURKOWSKI Szymon EMPOLI
-C
-C
-7
-TESSMANN Tanner VENEZIA
-C
-C
-4
-BEHRAMI Valon GENOA
-C
-C
-6
-OBI Joel SALERNITANA
-C
-C
-6
-HERNANI - GENOA
-C
-C 14
-DA RIVA Jacopo ATALANTA
-C
-C
-2
+//STRIKERS
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Domenico', 'BERARDI', 'SASSUOLO', 33, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Adekanye', 'BOBBY', 'LAZIO', 3, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Jeremie', 'BOGA', 'SASSUOLO', 22, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Gianluca', 'CAPRARI', 'SAMPDORIA', 14, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Amato', 'CICIRETTI', 'NAPOLI', 5, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Ebrima', 'COLLEY', 'ATALANTA', 8, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Carlos Joaquin', 'CORREA', 'LAZIO', 26, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Gerard', 'DEULOFEU', 'UDINESE', 13, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Francesco', 'DI MARIANO', 'VENEZIA', 4, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Paulo', 'DYBALA', 'JUVENTUS', 31, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Simone', 'EDERA', 'TORINO', 7, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Stephan', 'EL SHAARAWY', 'ROMA', 15, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Nicolas', 'GONZALEZ', 'FIORENTINA', 19, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Emmanuel', 'GYASI', 'SPEZIA', 13, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Falque', 'IAGO', 'TORINO', 12, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Josip', 'ILICIC', 'ATALANTA', 24, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Lorenzo', 'INSIGNE', 'NAPOLI', 35, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Geraldino Galvao', 'JOAO PEDRO', 'CAGLIARI', 30, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Dennis', 'JOHNSEN', 'VENEZIA', 5, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Rafael', 'LEAO', 'MILAN', 17, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Hirving', 'LOZANO', 'NAPOLI', 27, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Ruslan', 'MALINOVSKIY', 'ATALANTA', 28, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Petar', 'MICIN', 'UDINESE', 1, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Vincenzo', 'MILLICO', 'TORINO', 3, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Aleksey', 'MIRANCHUK', 'ATALANTA', 16, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Raul', 'MORO', 'LAZIO', 1, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Brian', 'ODDEI', 'SASSUOLO', 2, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Riccardo', 'ORSOLINI', 'BOLOGNA', 19, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Adam', 'OUNAS', 'NAPOLI', 12, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Gaston', 'PEREIRO', 'CAGLIARI', 9, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Marko', 'PJACA', 'TORINO', 12, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Matteo', 'POLITANO', 'NAPOLI', 24, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Ignacio', 'PUSSETTO', 'UDINESE', 12, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Antonino', 'RAGUSA', 'VERONA', 5, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Ante', 'REBIC', 'MILAN', 28, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Nicola', 'SANSONE', 'BOLOGNA', 12, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Riccardo', 'SOTTIL', 'FIORENTINA', 11, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Kacper', 'URBANSKI', 'BOLOGNA', 1, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Daniele', 'VERDE', 'SPEZIA', 16, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Magnus', 'WARMING', 'TORINO', 4, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Gennaro', 'TUTINO', 'NAPOLI', 6, 'S', 0, 0, 0, 0);
+INSERT INTO PLAYERS (name, surname, team, quote, role, ngoal, nassist, nyellowcard, nredcard) VALUES
+('Matteo', 'CANCELLIERI', 'VERONA', 1, 'S', 0, 0, 0, 0);
 
-AGUDELO Kevin GENOA
-T
-C 10
-ALA-MYLLYMÄKI Lauri VENEZIA
-T
-C
-2
-ARAMU Mattia VENEZIA
-T
-C 11
-BAJRAMI Nedim EMPOLI
-T
-C 13
-BERARDI Domenico SASSUOLO
-T
-A 33
-BERNARDESCHI Federico JUVENTUS
-T
-C 13
-BESSA Daniel VERONA
-T
-C
-9
-BJARKASON Bjarki Steinn VENEZIA
-T
-C
-1
-BOBBY Adekanye LAZIO
-T
-A
-3
-BOGA Jeremie SASSUOLO
-T
-A 22
-BONAVENTURA Giacomo FIORENTINA
-T
-C 15
-CALHANOGLU Hakan INTER
-T
-C 24
-CALLEJON Jose Maria FIORENTINA
-T
-C 13
-CAPRARI Gianluca SAMPDORIA
-T
-A 14
-CASO Giuseppe GENOA
-T
-C
-2
-CASTILLEJO Samu MILAN
-T
-C 11
-CHIESA Federico JUVENTUS
-T
-C 31
-CICIRETTI Amato NAPOLI
-T
-A
-5
-COLLEY Ebrima ATALANTA T A 8
-CORREA Carlos Joaquin LAZIO T A 26
-DAMSGAARD Mikkel SAMPDORIA T C 14
-DEULOFEU Gerard UDINESE T A 13
-DI MARIANO Francesco VENEZIA T A 4
-DJURICIC Filip SASSUOLO T C 18
-DYBALA Paulo JUVENTUS T A 31
-EDERA Simone TORINO T A 7
-EL SHAARAWY Stephan ROMA T A 15
-GAETANO Gianluca NAPOLI T C 4
-GONZALEZ Nicolas FIORENTINA T A 19
-GYASI Emmanuel SPEZIA T A 13
-HARASLIN Lukas SASSUOLO T C 7
-HAUGE Jens Petter MILAN T C 9
-HEYMANS Daan VENEZIA T C 7
-IAGO Falque TORINO T A 12
-ILICIC Josip ATALANTA T A 24
-INSIGNE Lorenzo NAPOLI T A 35
-JOAO PEDRO Geraldino Galvao CAGLIARI T A 30
-JOHNSEN Dennis VENEZIA T A 5
-JONY - LAZIO T C 6
-KULUSEVSKI Dejan JUVENTUS T C 26
-LEAO Rafael MILAN T A 17
-LOZANO Hirving NAPOLI T A 27
-LUIS ALBERTO Romero Alconchel LAZIO T C 28
-MALDINI Daniel MILAN T C 1
-MALINOVSKIY Ruslan ATALANTA T A 28
-MICIN Petar UDINESE T A 1
-MILLICO Vincenzo TORINO T A 3
-MIRANCHUK Aleksey ATALANTA T A 16
-MKHITARYAN Henrikh ROMA T C 32
-MONTIEL Tòfol FIORENTINA T C 1
-MORO Raul LAZIO T A 1
-NAINGGOLAN Radja INTER T C 15
-ODDEI Brian SASSUOLO T A 2
-ORSOLINI Riccardo BOLOGNA T A 19
-OUNAS Adam NAPOLI T A 12
-PEREIRO Gaston CAGLIARI T A 9
-PEREZ Carles ROMA T C 13
-PESSINA Matteo ATALANTA T C 18
-PJACA Marko TORINO T A 12
-POLITANO Matteo NAPOLI T A 24
-PUSSETTO Ignacio UDINESE T A 12
-RAGUSA Antonino VERONA T A 5
-RAMSEY Aaron JUVENTUS T C 14
-REBIC Ante MILAN T A 28
-SAELEMAEKERS Alexis MILAN T C 15
-SANSONE Nicola BOLOGNA
-T
-A 12
-SAPONARA Riccardo FIORENTINA
-T
-C
-9
-SKOV OLSEN Andreas BOLOGNA
-T
-C 13
-SORIANO Roberto BOLOGNA
-T
-C 24
-SOTTIL Riccardo FIORENTINA
-T
-A 11
-TRAORE Hamed Junior SASSUOLO
-T
-C 15
-URBANSKI Kacper BOLOGNA
-T
-C
-1
-VERDE Daniele SPEZIA
-T
-A 16
-VERDI Simone TORINO
-T
-C 13
-VERRE Valerio SAMPDORIA
-T
-C 13
-VIGNATO Emanuel BOLOGNA
-T
-C 11
-WARMING Magnus TORINO
-T
-A
-4
-ZACCAGNI Mattia VERONA
-T
-C 17
-ZALEWSKI Nicola ROMA
-T
-C
-1
-ZANIOLO Nicolò ROMA
-T
-C 22
-ZEKHNINI Rafik FIORENTINA
-T
-C
-4
-ANDERSON Felipe LAZIO
-T
-C 17
-DIAZ Brahim MILAN
-T
-C 16
-STOJKOVIC Dennis TORINO
-T
-C
-1
-TUTINO Gennaro NAPOLI
-T
-A
-6
-CANCELLIERI Matteo VERONA
-T
-A
-1
-SIGURDSSON Arnor VENEZIA
-T
-C 13
+
 ASENCIO Raúl GENOA
 A
 A
