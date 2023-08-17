@@ -1,7 +1,7 @@
 package it.kevinroberto.fantacalcapi.util;
 
 public enum Roles {
-	GOALKEAPER("G"), DEFENDER("D"), MIDFIELDER("M"), STRIKER("S");
+	PORTIERE("P"), DIFENSORE("D"), CENTROCAMPISTA("C"), ATTACCANTE("A");
 
 	public final String label;
 

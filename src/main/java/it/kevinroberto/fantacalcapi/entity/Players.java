@@ -28,14 +28,17 @@ public class Players implements Serializable {
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	@Column(name = "idplayer")
-	private String idplayer;
+	private Long idplayer;
+	@Column(name = "name")
 	private String name;
+	@Column(name = "surname")
 	private String surname;
+	@Column(name = "team")
 	private String team;
+	@Column(name = "quote")
 	private Long quote;
+	@Column(name = "role")
 	private String role;
-	private Long ngoal;
-	private Long nassist;
-	private Long nyellowcard;
-	private Long nredcard;
+	@Column(name = "fvm")
+	private Long fvm;
 }

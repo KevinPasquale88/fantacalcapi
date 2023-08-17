@@ -9,7 +9,7 @@ import org.springframework.stereotype.Repository;
 import it.kevinroberto.fantacalcapi.entity.Players;
 
 @Repository
-public interface RepositoryPlayers extends JpaRepository<Players, String> {
+public interface RepositoryPlayers extends JpaRepository<Players, Long> {
 
 	@Query(value = "SELECT p FROM Players p")
 	public List<Players> findAll();
