@@ -31,8 +31,6 @@ public class Players implements Serializable {
 	private Long idplayer;
 	@Column(name = "name")
 	private String name;
-	@Column(name = "surname")
-	private String surname;
 	@Column(name = "team")
 	private String team;
 	@Column(name = "quote")
